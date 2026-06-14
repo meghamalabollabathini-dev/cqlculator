@@ -1,1 +1,1 @@
-# cqlculator
+# calculator
